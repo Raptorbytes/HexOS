@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="[./.github/assets/logo/HexOSlogo-REMOVEDBG.png]) " width="100px" /> 
+   <img src="/.github/assets/logo/HexOSlogo-REMOVEDBG.png " width="100px" /> 
    <br>
       HexOS
    <br>
