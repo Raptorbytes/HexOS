@@ -6,7 +6,7 @@
     {
       "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
       "logo": {
-        "source": "${~/nixos-config/Assets/HexOSlogo-REMOVEDBG.png}",
+        "source": "${~/HexOS/Assets/HexOSlogo-REMOVEDBG.png}",
         "type": "kitty-direct",
         "width": 33,
         "padding": {
