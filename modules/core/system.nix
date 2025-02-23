@@ -25,11 +25,24 @@
   };
 
   environment.systemPackages = with pkgs; [
-    wget
-    git
+        wget
+        git
+        onefetch
+        gcc
+        cbonsai
+        lavat
+        figlet
+        rustup
+        prismlauncher
+        qbittorrent
+        vscode
+        kiwix
+        steam
+        moonlight-qt
+        hyfetch
   ];
 
-  time.timeZone = "Europe/Paris";
+  time.timeZone = "America/New_York";
   i18n.defaultLocale = "en_US.UTF-8";
   nixpkgs.config.allowUnfree = true;
   system.stateVersion = "24.05";
